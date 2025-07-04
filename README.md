@@ -16,13 +16,13 @@ Este proyecto muestra un análisis completo de ventas utilizando exclusivamente 
 
 ## 📁 Estructura del repositorio
 
-´´´
+```
 excel-analisis-ventas/
 ├── informe-vntas-excel.xlsx # Archivo principal con todos los cálculos
 ├── macro.xlsx # Archivo que contiene la macro grabada
 ├── README.md # Descripción del proyecto
 └── Tablas_Dinámicas_Gráfico.pdf # Vista previa del panel de Excel
-´´´
+```
 
 ## 🛠 Herramientas y funciones usadas
 
